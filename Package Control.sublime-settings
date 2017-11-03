@@ -61,6 +61,7 @@
 		"SublimeLinter-php",
 		"SublimeTmpl",
 		"WordPress",
-		"WordPress Developer Resources"
+		"WordPress Developer Resources",
+		"WordPress Generate Salts"
 	]
 }

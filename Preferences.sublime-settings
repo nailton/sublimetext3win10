@@ -77,7 +77,11 @@
 		"*.psd",
 		"*.db",
 		"*.sublime-*",
-		"*.idea"
+		"*.idea",
+		"*.pdf",
+		"*.pdsprj",
+		"*.pdsbak",
+		"*.workspace"
 	],
 	"find_selected_text": true,
 	"findreplace_small": true,
@@ -96,7 +100,7 @@
 		"subpixel_antialias",
 		"gray_antialias"
 	],
-	"font_size": 15,
+	"font_size": 14,
 	"gpu_window_buffer": "auto",
 	"gutter": true,
 	"highlight_line": true,
@@ -104,6 +108,7 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
+		"Deviot (Arduino IDE)",
 		"Vintage"
 	],
 	"indent_guide_options":
