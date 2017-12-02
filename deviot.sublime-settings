@@ -2,5 +2,6 @@
 	"compile_lang": false,
 	"lang_id": "en",
 	"last_path": "D:\\ETB\\2SEMESTRE\\MICROCONTROLADORES\\microlistas\\chave-lcd",
+	"port_id": "COM3",
 	"select_environment": "uno"
 }
